@@ -1,0 +1,24 @@
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "Algoritmos de Merlin: Magia e Encantos do Desenvolvimento Backend" e tem foco em backend,  com o público alvo de iniciantes em backend
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] Traga informações importantes e relevantes sobre a linguagem Python e dicas de ferramentas.
+- no bloco [CURIOSIDADE 2] Traga informações sobre bibliotecas ou frameworks que podem ser utilizados em python.
+- no bloco [CURIOSIDADE 3] Traga informações de carreira em Python.
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Dr. Gonçalves e esse foi o Algoritmos de Merlin dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Dr. Gonçalves
+- Cada bloco deve ter seu conteúdo descrito no máximo com 144 caracteres.
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
